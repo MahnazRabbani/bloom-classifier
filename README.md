@@ -1,4 +1,4 @@
-# Deep Learning-Based Flower Species Recognition
+# Bloom Classifier: Deep Learning-Based Flower Species Recognition
 
 ## Project Description
 This project focuses on designing and implementing a machine learning model to accurately classify different species of flowers based on images. The application of this project can be found in various fields, such as botany, smart agriculture, landscaping design, and biodiversity conservation efforts.
