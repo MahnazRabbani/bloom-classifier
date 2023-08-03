@@ -5,7 +5,7 @@ This project focuses on designing and implementing a machine learning model to a
 
 ## Dataset   
 
-102 Category Flower Dataset: 8189 examples consists of 102 categories, [link] (https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+102 Category Flower Dataset: 8189 examples consists of 102 categories, [link](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 ## Installation and Setup
 1. Clone the repository: `git clone https://github.com/MahnazRabbani/bloom-classifier.git`
