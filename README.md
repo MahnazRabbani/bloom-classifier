@@ -3,6 +3,10 @@
 ## Project Description
 This project focuses on designing and implementing a machine learning model to accurately classify different species of flowers based on images. The application of this project can be found in various fields, such as botany, smart agriculture, landscaping design, and biodiversity conservation efforts.
 
+## Dataset   
+
+102 Category Flower Dataset: 8189 examples consists of 102 categories, [link] (https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+
 ## Installation and Setup
 1. Clone the repository: `git clone https://github.com/MahnazRabbani/bloom-classifier.git`
 2. Navigate to the project directory: `cd bloom-classifier`
@@ -22,6 +26,7 @@ The project has the following structure:
 - `results/`: Model predictions and other outputs
 - `tests/`: Unit tests for the project
 - `docs/`: Additional documentation
+- `requirements.txt`: Contain a list of python dependencies required to run the project
 <!-- - `app.py`: Flask/Django application for model deployment (if applicable) -->
 
 ## Contributing
